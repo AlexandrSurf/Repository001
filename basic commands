@@ -1,0 +1,12 @@
+cd(change directory)
+git clone ссылка
+git status 
+git add .
+git commit - m"сообщение при коммите"
+git push
+git log
+git rm имя файла
+git branch название ветки 
+git branch --list и git branch --list -v
+git checkout имя ветки 
+git merge имя ветки которую хотим слить с текущей
