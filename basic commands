@@ -1,12 +1,13 @@
-cd(change directory)
-git clone ссылка
-git status 
-git add .
-git commit - m"сообщение при коммите"
-git push
-git log
-git rm имя файла
-git branch название ветки 
-git branch --list и git branch --list -v
-git checkout имя ветки 
-git merge имя ветки которую хотим слить с текущей
+cd адрес директории (смена директории)
+git clone ссылка (клонирование репозитория)
+git status (статус)
+git log (список и информация о коммитах)
+git add .(добавление файлов в подготовленные)
+git commit - m"сообщение при коммите"(фиксация файлов)
+git push (отправка файлов на серевер)
+git rm имя файла (удаление файлов)
+git branch название ветки (создание ветки)
+git branch --list и git branch --list -v (информация о ветках)
+git checkout имя ветки (переключение ветки)
+git merge имя ветки которую хотим слить с текущей (добавление информации из указанной ветки в текущую)
+git pull (загрузка изменений с сервера)
